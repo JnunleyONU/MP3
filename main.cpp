@@ -7,6 +7,11 @@
 //  Jet Plane
 //
 
+// This program displays a plane seating chart using a 2D array, while also being able to detect cases where a seat is already taken 
+// or a seat that does not eist. The program displays a seating chart and then accepts seating requests based on the user input. 
+// The program will accept user input until all seats are filled or until the user quits. The seating chart will update itself after every seat
+// that is picked. 
+
 #include <iostream>
 #include <cmath>
 #include <iomanip>
